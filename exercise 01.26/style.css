@@ -24,10 +24,12 @@ h1{
     padding-bottom: 30px;
     text-align: center;
     color: #786679;
+    text-decoration: underline 7px #786679;;
 
 }
 .subTitle{
     text-transform: uppercase;
+    margin-left: 65px;
     font-weight: bold;
     color: #786679;
     font-size: 40px;
